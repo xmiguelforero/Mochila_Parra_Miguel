@@ -1,0 +1,19 @@
+Comandos:
+
+git init //Inicializa la carpeta como repositorio local
+
+git add . //Para agregar los archivos que están untracked al staging area
+
+git config user.name "" // Dentro de las comillas agregar el usuario de Github
+git config user.email "" // Dentro de las comillas agregar el email registrado en Github
+    Se puede agregar --global despues del config para que se configure una sola vez en la máquina
+
+git commit -m "" //Para commitiar los cambios agregados en el staging area y dentor de las comillas se coloca el mensaje del commit
+
+git remote add origin <linkdelrepo> // Para vincular el repositorio remoto con el repositorio local
+
+git push origin main //Para subir (pushear) los cambios (commitiados) al repositorio remoto
+
+git pull origin main //Para descargar (actualizar) el repositorio local con el repositorio remoto (dentro de la branch mencionada)
+
+git clone <linkdelrepo> //Para clonar un repositorio remoto
