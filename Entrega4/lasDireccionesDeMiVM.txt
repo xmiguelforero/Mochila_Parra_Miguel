@@ -1,0 +1,2 @@
+HWaddr 08:00:27:5c:de:fb  
+inet addr:10.0.2.15
