@@ -1,0 +1,17 @@
+Telnet:
+Pregunta: ¿Cuáles son las ventajas y desventajas de utilizar el protocolo Telnet?
+
+Ventajas: Se puede ingresar prácticamente ilimitadamente a los archivos o utilizar sus recursos de la otra computadora y también enviar y recibir información
+Desventajas: Parece ser fácil de vulnerar, además de que solo es texto, sin interfaz gráfica
+
+
+SSH:
+Pregunta: ¿Cuáles son las ventajas y desventajas de utilizar el protocolo SSH?
+
+Ventajas: Está cifrada la conexión y se puede acceder de forma remota a otra computadora
+Desventajas: No tiene interfaz grafica 
+
+Diferencias entre SSH y Telnet:
+Pregunta: ¿Cuáles son las principales diferencias entre SSH y Telnet?
+
+Telnet no está cifrado por ende es vulnerable a los ataques, en cambio SSH si está cifrado para una conexión más segura.
